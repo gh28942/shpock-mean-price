@@ -1,6 +1,7 @@
 # shpock-mean-price
 Calculate the mean and total price of articles sold on Shpock.com
 
+
 user variables:
 
 searchUrls          - array with URLs the user wants to be searched
