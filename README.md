@@ -1,4 +1,4 @@
-# shpock-mean-price
+# Shpock Mean Price
 Calculate the mean and total price of articles sold on Shpock.com. Uses Python and Selenium.
 <br>
 Running the script - video of the calculation: https://www.youtube.com/watch?v=FSRPpX8036Y
